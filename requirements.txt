@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+openai
+dash[diskcache]
+plotly
+python-dotenv
+psutil
+multiprocess
+dill
+dash-bootstrap-components
+gunicorn
+statsmodels
